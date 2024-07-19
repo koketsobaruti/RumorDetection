@@ -1,1 +1,3 @@
 this is a version of my rumor detection project that i have been working on that also contains Baysian optimization in order to improve model performance.
+the feature engineering file contains the processes containing reading from the pheme rumor detection json dataset and generating new features namely sentiment using VADER and computing time_Delay feature.
+the data analysis contains analysis on the PHEME dataset, individual features and a covariance matrix of all features. Emotion analysis features are also included at this stage. This file also contains PCA analysis to determine feature relevance.
